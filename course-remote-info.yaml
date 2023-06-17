@@ -3,14 +3,14 @@ hyperskill_project:
   ide_files: https://cogniterra.org/media/attachments/lesson/26635/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: "Thu, 01 Jan 1970 00:00:00 UTC"
+update_date: "Sat, 17 Jun 2023 18:54:02 UTC"
 stages:
 - id: 1321
   step: 20388
   is_completed: true
 - id: 1322
   step: 20389
-  is_completed: false
+  is_completed: true
 - id: 1323
   step: 20390
   is_completed: false
@@ -238,8 +238,6 @@ topics:
     theory_id: 10730
   - title: Functions as objects
     theory_id: 5991
-  - title: Lambda expressions
-    theory_id: 6154
   - title: Reading files
     theory_id: 6351
   - title: Writing files

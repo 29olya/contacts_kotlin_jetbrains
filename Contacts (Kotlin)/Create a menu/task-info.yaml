@@ -216,6 +216,9 @@ files:
     \        }\n        catch (Exception ex) {\n            return new CheckResult(false,\
     \ \"Can't check the answer\");\n        }\n    }\n}\n"
   learner_created: false
-feedback_link: https://hyperskill.org/projects/261/stages/1322/implement#comment
-status: Unchecked
+feedback_link: https://hyperskill.org/learn/step/20389#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 17 Jun 2023 20:30:49 UTC"
 record: -1
