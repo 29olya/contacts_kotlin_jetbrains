@@ -210,5 +210,8 @@ files:
     \ check the answer\");\n        }\n    }\n}\n"
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/20390#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 18 Jun 2023 13:44:47 UTC"
 record: -1
